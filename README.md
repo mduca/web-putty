@@ -15,8 +15,6 @@ This project gives me the ability to use alreaady memorized muscle macros with m
 
 ### Todo
 
-edit default route root
-test bootstrap
-generate connections resource
+generate pages controller
 build putty form
 
