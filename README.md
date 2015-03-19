@@ -15,6 +15,8 @@ This project gives me the ability to use alreaady memorized muscle macros with m
 
 ### Todo
 
-initialize git repo
-import gems
-test
+edit default route root
+test bootstrap
+generate connections resource
+build putty form
+
